@@ -4,7 +4,7 @@
 
 ## Libraries used
 
-| Go                                                   |
-|------------------------------------------------------|
-| [`discordgo`](https://github.com/bwmarrin/discordgo) |
-| [`godotenv`](https://github.com/joho/godotenv)       |
+| Go                                                   | JavaScript                                              |
+|------------------------------------------------------|---------------------------------------------------------|
+| [`discordgo`](https://github.com/bwmarrin/discordgo) | [`discord.js`](https://github.com/discordjs/discord.js) |
+| [`godotenv`](https://github.com/joho/godotenv)       | [`dotenv`](https://github.com/motdotla/dotenv)          |
