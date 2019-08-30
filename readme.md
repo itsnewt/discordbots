@@ -1,9 +1,3 @@
-# discordbots 
+# This repository has been moved.
 
-> Examples  of Discord bots in various different langauges.
-
-## Languages covered
-
-- go
-- javascript
-- python
+Please check [jsmiith/discord](https://github.com/jsmiith/discord) for future updates.
